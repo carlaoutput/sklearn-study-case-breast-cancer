@@ -198,7 +198,7 @@ print(classification_report(y_test,grid_predictions)) # Report
 
 
  
-''' STEP 5: Deploy and Maintains the model¶'''
+''' STEP 5: Deploy and Maintains the model '''
 
 # N/A 
 
